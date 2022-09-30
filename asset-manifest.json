@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/silo9506/hompage-react/static/js/main.606f1c6f.js",
-    "static/js/787.ed490093.chunk.js": "/silo9506/hompage-react/static/js/787.ed490093.chunk.js",
-    "static/media/discount03.svg": "/silo9506/hompage-react/static/media/discount03.ce85ce41244f74e38ed4303f484cd25b.svg",
-    "static/media/foot01.svg": "/silo9506/hompage-react/static/media/foot01.b62f0781ba80510fe12349a11b632282.svg",
-    "static/media/puppyicon01.svg": "/silo9506/hompage-react/static/media/puppyicon01.422b0b370cff6329553414669a348a81.svg",
-    "static/media/phone04.svg": "/silo9506/hompage-react/static/media/phone04.b6d9b2e9ec901f526f10886ef4ac7df5.svg",
-    "static/media/location01.svg": "/silo9506/hompage-react/static/media/location01.88cee3124a8e1c050f438c5aa5545d31.svg",
-    "index.html": "/silo9506/hompage-react/index.html",
-    "static/media/necktie01.svg": "/silo9506/hompage-react/static/media/necktie01.7b812c2c78ae411562617a795ea9f3a2.svg",
-    "static/media/phone02.svg": "/silo9506/hompage-react/static/media/phone02.14a24f1fa7de89703491539af98c0b65.svg",
-    "static/media/phone03.svg": "/silo9506/hompage-react/static/media/phone03.03d27908160aca224ba5d1ad19238ae2.svg",
-    "static/media/clock01.svg": "/silo9506/hompage-react/static/media/clock01.561926673ead7159ebe3f2b0e6f8a4fb.svg",
-    "static/media/letter01.svg": "/silo9506/hompage-react/static/media/letter01.c240e37264907ad2858360b8f903ee44.svg",
-    "static/media/arrow01.svg": "/silo9506/hompage-react/static/media/arrow01.33e4d03ac7255265de2ae4780a837511.svg",
-    "main.606f1c6f.js.map": "/silo9506/hompage-react/static/js/main.606f1c6f.js.map",
-    "787.ed490093.chunk.js.map": "/silo9506/hompage-react/static/js/787.ed490093.chunk.js.map"
+    "main.js": "/hompage-react/static/js/main.06f8c3bc.js",
+    "static/js/787.ed490093.chunk.js": "/hompage-react/static/js/787.ed490093.chunk.js",
+    "static/media/discount03.svg": "/hompage-react/static/media/discount03.ce85ce41244f74e38ed4303f484cd25b.svg",
+    "static/media/foot01.svg": "/hompage-react/static/media/foot01.b62f0781ba80510fe12349a11b632282.svg",
+    "static/media/puppyicon01.svg": "/hompage-react/static/media/puppyicon01.422b0b370cff6329553414669a348a81.svg",
+    "static/media/phone04.svg": "/hompage-react/static/media/phone04.b6d9b2e9ec901f526f10886ef4ac7df5.svg",
+    "static/media/location01.svg": "/hompage-react/static/media/location01.88cee3124a8e1c050f438c5aa5545d31.svg",
+    "index.html": "/hompage-react/index.html",
+    "static/media/necktie01.svg": "/hompage-react/static/media/necktie01.7b812c2c78ae411562617a795ea9f3a2.svg",
+    "static/media/phone02.svg": "/hompage-react/static/media/phone02.14a24f1fa7de89703491539af98c0b65.svg",
+    "static/media/phone03.svg": "/hompage-react/static/media/phone03.03d27908160aca224ba5d1ad19238ae2.svg",
+    "static/media/clock01.svg": "/hompage-react/static/media/clock01.561926673ead7159ebe3f2b0e6f8a4fb.svg",
+    "static/media/letter01.svg": "/hompage-react/static/media/letter01.c240e37264907ad2858360b8f903ee44.svg",
+    "static/media/arrow01.svg": "/hompage-react/static/media/arrow01.33e4d03ac7255265de2ae4780a837511.svg",
+    "main.06f8c3bc.js.map": "/hompage-react/static/js/main.06f8c3bc.js.map",
+    "787.ed490093.chunk.js.map": "/hompage-react/static/js/787.ed490093.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.606f1c6f.js"
+    "static/js/main.06f8c3bc.js"
   ]
 }
